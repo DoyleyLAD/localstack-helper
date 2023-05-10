@@ -4,7 +4,6 @@ RESOURCE=$1
 RESOURCE_NAME=$2
 VALUE=$3
 REGION="eu-west-2"
-AWS=$() 
 
 aws_ls() {
     AWS_ACCESS_KEY_ID=localstack \
