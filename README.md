@@ -1,4 +1,4 @@
-# localStack-helper
+# localstack-helper
 
 ## Descriptiom
 Run Localstack using docker and helps script to create and delete AWS Resources.
